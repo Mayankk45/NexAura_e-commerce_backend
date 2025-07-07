@@ -1,0 +1,210 @@
+{
+  "users": [
+    {
+      "id": "fafoadjfa8h3r9erh",
+      "email": "hey@admin.com",
+      "name": "admin",
+      "password": "12345",
+      "isAdmin": true
+    },
+    {
+      "id": "gK_Yh8wk9wfDK3y17kQoV",
+      "name": "aman",
+      "email": "dummy@d.com",
+      "password": "123"
+    }
+  ],
+  "products": [
+    {
+      "id": "akdhfafoadjfonf",
+      "title": "Sony WH-1000XM3 Bluetooth Wireless Over Ear Headphones with Mic (Silver)",
+      "image": "https://i.pinimg.com/736x/9e/34/9e/9e349e53a7f3b6b7e2dc0d7937c3f3c4.jpg",
+      "price": 21999,
+      "description": "Digital noise cancelling : Industry leading Active Noise Cancellation (ANC) lends a personalized, virtually soundproof experience at any situation\r\nHi-Res Audio : A built-in amplifier integrated in HD Noise Cancelling Processor QN1 realises the best-in-class signal-to-noise ratio and low distortion for portable devices.\r\nDriver Unit : Powerful 40-mm drivers with Liquid Crystal Polymer (LCP) diaphragms make the headphones perfect for handling heavy beats and can reproduce a full range of frequencies up to 40 kHz.\r\nVoice assistant : Alexa enabled (In-built) for voice access to music, information and more. Activate with a simple touch. Frequency response: 4 Hz-40,000 Hz",
+      "brand": "sony",
+      "model": "WH-1000XM3",
+      "color": "silver",
+      "category": "headphone"
+    },
+    {
+      "id": "sonywh1000xm5black",
+      "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones (Black)",
+      "image": "https://i.pinimg.com/736x/46/5a/b1/465ab197a6e7bc2a793172ce64f4663a.jpg",
+      "price": 29999,
+      "description": "Next-level noise cancellation with dual processors. 30-hour battery life. Lightweight and ultra-comfortable with adaptive sound control.",
+      "brand": "sony",
+      "model": "WH-1000XM5",
+      "color": "black",
+      "category": "headphone"
+    },
+    {
+      "id": "airpodspro2white",
+      "title": "Apple AirPods Pro (2nd Gen) with USB-C Charging Case",
+      "image": "https://i.pinimg.com/736x/c9/9c/e5/c99ce5a7db5d08ada1839352b9a736d8.jpg",
+      "price": 24999,
+      "description": "Active Noise Cancellation, Adaptive Transparency, Spatial Audio, 30-hour total battery life.",
+      "brand": "apple",
+      "model": "AirPods Pro 2",
+      "color": "white",
+      "category": "earbuds"
+    },
+    {
+      "id": "oneplustwswhite",
+      "title": "OnePlus Nord Buds True Wireless Earbuds (White)",
+      "image": "https://i.pinimg.com/736x/f3/c2/1b/f3c21b4231cb21609af3a067e2c27431.jpg",
+      "price": 2999,
+      "description": "12.4mm Titanium Drivers, 30-hour battery life, IP55 rating, fast charging with 10min = 5h playback.",
+      "brand": "oneplus",
+      "model": "Nord Buds",
+      "color": "white",
+      "category": "earbuds"
+    },
+    {
+      "id": "fireboltthunderblue",
+      "title": "Fire-Boltt Thunder Bluetooth Calling Smartwatch (Blue)",
+      "image": "https://i.pinimg.com/736x/51/37/78/513778506bc17d2ba5ccc0ee015e5230.jpg",
+      "price": 3799,
+      "description": "1.32” AMOLED display, Bluetooth calling, inbuilt games, SpO2, heart rate monitoring, 30+ sports modes, IP68 water-resistant.",
+      "brand": "fire-boltt",
+      "model": "Thunder",
+      "color": "blue",
+      "category": "smartwatch"
+    },
+    {
+      "id": "boatairdopes141black",
+      "title": "boAt Airdopes 141 Bluetooth Truly Wireless Earbuds (Black)",
+      "image": "https://i.pinimg.com/736x/ac/c4/16/acc416cc63c9cec91b04f2fd178d1ef0.jpg",
+      "price": 1299,
+      "description": "Up to 42 hours playback, ENx noise cancellation for calls, ASAP Charge, IPX4 water resistance.",
+      "brand": "boAt",
+      "model": "Airdopes 141",
+      "color": "black",
+      "category": "earbuds"
+    },
+    {
+      "id": "boatchargedplusorange",
+      "title": "boAt Wave Call 2 Smartwatch (Orange Strap)",
+      "image": "https://i.pinimg.com/736x/ea/3b/ae/ea3bae6b5e43768320171b66f825793d.jpg",
+      "price": 2299,
+      "description": "1.83” HD display, Bluetooth calling, 700+ active modes, heart rate & SpO2 monitoring, IP68 water resistance, 10-day battery.",
+      "brand": "boAt",
+      "model": "Wave Call 2",
+      "color": "orange",
+      "category": "smartwatch"
+    },
+    {
+      "id": "realmebudsair3blue",
+      "title": "Realme Buds Air 3 with Active Noise Cancellation (Blue)",
+      "image": "https://i.pinimg.com/736x/79/ec/ee/79ecee69df8d02db7d628f4e761ea32c.jpg",
+      "price": 4499,
+      "description": "42dB ANC, 30-hour total playback, 10mm Dynamic Bass Boost Drivers, IPX5 water resistance.",
+      "brand": "realme",
+      "model": "Buds Air 3",
+      "color": "blue",
+      "category": "earbuds"
+    },
+    {
+      "id": "noisebudsxgreen",
+      "title": "Noise Buds X Truly Wireless Earbuds with ANC (Forest Green)",
+      "image": "https://i.pinimg.com/474x/6c/ed/ac/6cedac0cdb7be029815defcfe2bdd771.jpg",
+      "price": 1799,
+      "description": "ANC up to 25dB, 35-hour total playtime, quad mic with ENC, low latency mode.",
+      "brand": "noise",
+      "model": "Buds X",
+      "color": "green",
+      "category": "earbuds"
+    },
+    {
+      "id": "marshallmonitorii",
+      "title": "Marshall Monitor II ANC Bluetooth Headphones (Black)",
+      "image": "https://i.pinimg.com/736x/9a/e5/49/9ae54933e861206ad65ce5bdf8fc0b8b.jpg",
+      "price": 24999,
+      "description": "Active Noise Cancelling, up to 30 hours wireless playtime, premium sound, collapsible design, voice assistant support.",
+      "brand": "marshall",
+      "model": "Monitor II ANC",
+      "color": "black",
+      "category": "headphone"
+    },
+    {
+      "id": "sennheisermomentum4brown",
+      "title": "Sennheiser Momentum 4 Wireless Headphones (Brown)",
+      "image": "https://i.pinimg.com/736x/ce/0b/a1/ce0ba1ed2abd969ab9d3248a16dd0dc8.jpg",
+      "price": 34999,
+      "description": "Adaptive Noise Cancelling, 60-hour battery life, audiophile-grade sound, comfortable over-ear design.",
+      "brand": "sennheiser",
+      "model": "Momentum 4",
+      "color": "brown",
+      "category": "headphone"
+    },
+    {
+      "id": "noisecolorfitultrablack",
+      "title": "Noise ColorFit Ultra 3 Smartwatch (Jet Black)",
+      "image": "https://i.pinimg.com/736x/3d/3b/2c/3d3b2c61549cc0f1c4e118f84a22ec5c.jpg",
+      "price": 3999,
+      "description": "1.96” AMOLED display, Bluetooth calling, 100+ sports modes, SpO2 monitoring, Always-on Display, 7-day battery life.",
+      "brand": "noise",
+      "model": "ColorFit Ultra 3",
+      "color": "black",
+      "category": "smartwatch"
+    }
+  ],
+  "cart": [
+    {
+      "id": "b967",
+      "userId": "gK_Yh8wk9wfDK3y17kQoV",
+      "product": [
+        {
+          "price": 24999,
+          "productId": "marshallmonitorii",
+          "title": "Marshall Monitor II ANC Bluetooth Headphones (Black)",
+          "image": "https://i.pinimg.com/736x/9a/e5/49/9ae54933e861206ad65ce5bdf8fc0b8b.jpg",
+          "model": "Monitor II ANC",
+          "color": "black",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "96c5",
+      "userId": "fafoadjfa8h3r9erh",
+      "product": [
+        {
+          "price": 2299,
+          "productId": "boatchargedplusorange",
+          "title": "boAt Wave Call 2 Smartwatch (Orange Strap)",
+          "image": "https://i.pinimg.com/736x/ea/3b/ae/ea3bae6b5e43768320171b66f825793d.jpg",
+          "model": "Wave Call 2",
+          "color": "orange",
+          "quantity": 1
+        },
+        {
+          "price": 3999,
+          "productId": "noisecolorfitultrablack",
+          "title": "Noise ColorFit Ultra 3 Smartwatch (Jet Black)",
+          "image": "https://i.pinimg.com/736x/3d/3b/2c/3d3b2c61549cc0f1c4e118f84a22ec5c.jpg",
+          "model": "ColorFit Ultra 3",
+          "color": "black",
+          "quantity": 1
+        },
+        {
+          "price": 24999,
+          "productId": "marshallmonitorii",
+          "title": "Marshall Monitor II ANC Bluetooth Headphones (Black)",
+          "image": "https://i.pinimg.com/736x/9a/e5/49/9ae54933e861206ad65ce5bdf8fc0b8b.jpg",
+          "model": "Monitor II ANC",
+          "color": "black",
+          "quantity": 1
+        },
+        {
+          "price": 1799,
+          "productId": "noisebudsxgreen",
+          "title": "Noise Buds X Truly Wireless Earbuds with ANC (Forest Green)",
+          "image": "https://i.pinimg.com/474x/6c/ed/ac/6cedac0cdb7be029815defcfe2bdd771.jpg",
+          "model": "Buds X",
+          "color": "green",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}
